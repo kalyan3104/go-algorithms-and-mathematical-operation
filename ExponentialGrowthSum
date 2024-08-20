@@ -1,0 +1,88 @@
+Iteration 1: (i = 0)
+Calculation: math.Exp(float64(0)) computes 
+𝑒
+0
+e 
+0
+ .
+Result: 
+𝑒
+0
+=
+1
+e 
+0
+ =1 (since any number raised to the power of 0 is 1).
+Sum: The sum is initialized at 0, so after this iteration, the sum is 
+0
++
+1
+=
+1
+0+1=1.
+Iteration 2: (i = 1)
+Calculation: math.Exp(float64(1)) computes 
+𝑒
+1
+e 
+1
+ .
+Result: 
+𝑒
+1
+≈
+2.71828
+e 
+1
+ ≈2.71828.
+Sum: After this iteration, the sum is 
+1
++
+2.71828
+≈
+3.71828
+1+2.71828≈3.71828.
+Iteration 3: (i = 2)
+Calculation: math.Exp(float64(2)) computes 
+𝑒
+2
+e 
+2
+ .
+Result: 
+𝑒
+2
+≈
+7.38906
+e 
+2
+ ≈7.38906.
+Sum: After this iteration, the sum is 
+3.71828
++
+7.38906
+≈
+11.10734
+3.71828+7.38906≈11.10734.
+Iteration 4: (i = 3)
+Calculation: math.Exp(float64(3)) computes 
+𝑒
+3
+e 
+3
+ .
+Result: 
+𝑒
+3
+≈
+20.08554
+e 
+3
+ ≈20.08554.
+Sum: After this iteration, the sum is 
+11.10734
++
+20.08554
+≈
+31.19288
+11.10734+20.08554≈31.19288.
