@@ -14,7 +14,7 @@ func ExponentialGrowthSum(n int) float64 {
 		term := math.Exp(float64(i)) // where e is Euler's number (~2.718).
 		sum+=term
 	}
-	return sum // Sum=e^0+e^1+e^2+e^3
+	return sum // Sum=e^0+e^1+e^2+e^3 because i < n amd n:=4
 }
 
 func main () {
