@@ -1,0 +1,9 @@
+Euler's number \( e \) is approximately 2.718 because it is defined as the limit of a particular mathematical expression as it approaches infinity. Specifically, \( e \) can be defined as:
+
+\[
+e = \lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^n
+\]
+
+This limit results in a number that is approximately 2.718281828459045...
+
+The number \( e \) naturally arises in various areas of mathematics, particularly in processes involving continuous growth or decay, such as in compound interest, probability theory, calculus (as the base of natural logarithms), and differential equations. The specific value of \( e \) (about 2.718) is a result of this limiting process and its significance in describing exponential growth.
